@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onkcharkupalli1051
 - 👀 I’m interested in app development and web development.
-- 🌱 I’m currently learning java.
+- 🌱 I’m familiar with c, c++, java, android, html, css languages
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach me @+91-7385417160
 
