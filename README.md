@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Full Stack Web Project<br>👯I'm looking to collaborate on web, android, cloud projects<br>🌱I'm currently learning DevOps and Exploring Cloud Technologies
+🔭I'm currently working on Full Stack Web Projects<br>👯I'm looking to collaborate on web, android, cloud projects<br>🌱I'm currently learning DevOps and Exploring Cloud Technologies
 
 
 ## 🌐 Socials:
