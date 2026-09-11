@@ -1,27 +1,93 @@
-# 💫 About Me:
-🔭I'm currently working on Full Stack Web Projects<br>👯I'm looking to collaborate on web, android, cloud projects<br>🌱I'm currently learning DevOps and Exploring Cloud Technologies
+# Hi, I'm Onkar Charkupalli 👋
 
+### DevOps / Cloud / SRE Engineer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maverick.oc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onkarcharkupalli) 
+I’m a **DevOps Engineer** with 3+ years of experience building and supporting **AWS cloud infrastructure, Kubernetes platforms, CI/CD pipelines, Infrastructure as Code, automation, observability, and DevSecOps** in enterprise environments.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=onkcharkupalli1051&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=onkcharkupalli1051&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onkcharkupalli1051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=onkcharkupalli1051&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=onkcharkupalli1051&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy turning repetitive operational work into automation, troubleshooting complex infrastructure and deployment issues, and building reliable cloud-native platforms.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=onkcharkupalli1051&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Work On
+
+- ☁️ **Cloud:** AWS, EC2, EKS, VPC, IAM, Route53, RDS, ALB/ELB, CloudWatch, Lambda
+- ☸️ **Containers & Kubernetes:** Docker, Kubernetes, Amazon EKS, Helm, Istio
+- 🔄 **CI/CD & GitOps:** Jenkins, GitLab, GitHub Actions, Argo CD, JFrog Artifactory
+- 🏗️ **Infrastructure as Code:** Terraform, Ansible
+- 🐍 **Automation:** Python, Bash, Shell, Groovy
+- 📊 **Observability:** Prometheus, Grafana, CloudWatch, Splunk
+- 🔐 **Security & DevSecOps:** Snyk, SBOM, SonarQube Quality Gates, CyberArk, IAM, WAF
+- ☕ **Application Technologies:** Java, Spring Boot, Microservices
+
+---
+
+## 🛠️ Featured Engineering Experience
+
+### CI/CD & Release Automation
+- Engineered Jenkins CI/CD pipelines for Java and microservices applications.
+- Reduced deployment time from **60 minutes to 15 minutes — 75% improvement**.
+- Migrated **250+ Jenkins pipelines** into reusable shared-library templates using Groovy.
+- Automated JFrog Artifactory workflows using Python.
+
+### Kubernetes & GitOps
+- Managed application deployments on **Amazon EKS** using Kubernetes, Helm, and Argo CD.
+- Supported **Istio service mesh** operations including traffic management and ingress.
+- Troubleshot Kubernetes container failures, deployment issues, and application workload problems.
+- Built and maintained Dockerfiles and optimized container images using **multi-stage builds and distroless base images**, achieving a **30% image-size reduction**.
+
+### Infrastructure Automation
+- Automated AWS infrastructure provisioning using **Terraform modules and remote state management**.
+- Reduced manual infrastructure setup effort by **90%**.
+- Maintained Ansible automation for GitLab user provisioning, user unblocking, and SonarQube Quality Gate updates.
+
+### Observability & Reliability
+- Implemented CloudWatch dashboards, alarms, Lambda automation, and SNS notifications.
+- Worked with **Prometheus and Grafana** for Kubernetes and application monitoring.
+- Participated in production on-call support, incident troubleshooting, and root-cause analysis.
+- Supported disaster recovery validation and AWS high-availability/failover architecture for CI/CD platform services.
+
+### Security & Cloud Optimization
+- Integrated **Snyk, SBOM validation, SonarQube Quality Gates**, and secure secrets management into CI/CD workflows.
+- Achieved **100% compliance with internal security policies** through standardized DevSecOps controls.
+- Automated cloud cost analysis and audit workflows, contributing to **20% cloud cost optimization**.
+- Applied AI-assisted approaches to SonarQube custom rule generation and adoption.
+
+---
+
+## 📈 Impact
+
+| Area | Result |
+|---|---:|
+| Jenkins deployment time | **75% faster** |
+| Manual infrastructure provisioning | **90% reduction** |
+| Docker image size | **30% reduction** |
+| Cloud cost optimization | **20%** |
+| Jenkins pipelines migrated | **250+** |
+| SonarQube scan performance | **69% improvement** |
+| Internal security compliance | **100%** |
+
+---
+
+## 🌱 Currently Interested In
+
+**SRE • Cloud Platform Engineering • DevOps • Kubernetes • AWS • Infrastructure Automation • GitOps • Observability • Platform Reliability**
+
+I’m particularly interested in building **reliable, secure, scalable, and automation-first cloud platforms** and continuously improving developer and operational workflows.
+
+---
+
+## 📜 Certification
+
+**AWS Certified Solutions Architect – Associate**
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/onkarcharkupalli/)
+- **GitHub:** [@YourGitHubUsername](https://github.com/onkcharkupalli1051/)
+- **Email:** onkar2charkupalli@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects. I’m always interested in learning, experimenting with cloud-native technologies, and building practical automation solutions.
