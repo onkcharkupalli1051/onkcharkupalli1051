@@ -84,8 +84,8 @@ I’m particularly interested in building **reliable, secure, scalable, and auto
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/onkarcharkupalli/)
-- **GitHub:** [@YourGitHubUsername](https://github.com/onkcharkupalli1051/)
+- **LinkedIn:** [onkarcharkupalli](https://www.linkedin.com/in/onkarcharkupalli/)
+- **GitHub:** [@onkcharkupalli1051](https://github.com/onkcharkupalli1051/)
 - **Email:** onkar2charkupalli@gmail.com
 
 ---
