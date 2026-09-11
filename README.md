@@ -154,10 +154,9 @@ Key areas:
 ---
 
 ## 📫 Connect With Me
+**LinkedIn:** [onkarcharkupalli](https://www.linkedin.com/in/onkarcharkupalli/)
 
-**LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-
-**GitHub:** [@YourGitHubUsername](YOUR_GITHUB_URL)
+**GitHub:** [@onkcharkupalli1051](https://github.com/onkcharkupalli1051/)
 
 **Email:** onkar2charkupalli@gmail.com
 
